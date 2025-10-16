@@ -22,4 +22,3 @@ dependencyResolutionManagement {
 rootProject.name = "uaal-sample"
 include(":app")
 include(":unityLibrary")
-project(":unityLibrary").projectDir = File("unityLibrary")
